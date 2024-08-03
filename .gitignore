@@ -1,0 +1,26 @@
+# Android specific
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+*.apk
+*.aab
+*.dex
+*.class
+*.jar
+*.keystore
+
+# Node.js specific
+restapi/node_modules/
+restapi/.env
+restapi/.npm/
+restapi/package-lock.json
+restapi/yarn.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log

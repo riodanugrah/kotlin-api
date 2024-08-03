@@ -1,0 +1,11 @@
+# Node.js and Express specific
+node_modules/
+.env
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+yarn.lock
+
+# OS-specific files
+.DS_Store

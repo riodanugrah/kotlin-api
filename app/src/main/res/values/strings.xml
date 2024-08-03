@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlinapi</string>
+    <string name="title_activity_retrofit_client">RetrofitClient</string>
+</resources>
